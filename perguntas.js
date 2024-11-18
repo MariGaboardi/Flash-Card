@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a cidade em que Jesus nasceu?',
+    'Jesus nasceu em Belém, uma cidade atualmente localizada no território palestino da Cisjordânia, cerca de 10 quilômetros ao sul de Jerusalém.'
 )
 
 criaCartao(
