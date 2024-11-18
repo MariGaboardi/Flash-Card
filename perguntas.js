@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Colossenses 3:23',
+    'Tudo o que fizerdes, fazei-o de bom coração, com para o Senhor e não para os homens.'
 )
 
 criaCartao(
