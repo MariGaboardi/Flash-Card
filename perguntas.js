@@ -5,7 +5,7 @@ criaCartao(
 )
 
 criaCartao(
-    ' Quesito Geografico',
+    ' Quesito Geográfico',
     'Qual a cidade em que Jesus nasceu?',
     'Jesus nasceu em Belém, uma cidade atualmente localizada no território palestino da Cisjordânia, cerca de 10 quilômetros ao sul de Jerusalém.'
 )
@@ -18,19 +18,19 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se escreve jesus Cristo em inglês?',
+    'Jesus Christ'
 )
 
 criaCartao(
-    'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'Para dias de esgotamento físico e psicológico',
+    'Mateus 11:28',
+    'Vinde a mim, vós todos que estais aflitos sob o fardo, e eu vos aliviarei.'
 )
 
 
 criaCartao(
-    'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'Pare de relamar e entenda isso!!',
+    '1 Tessalonicenses 5:18',
+    'Em todas circunstâncias, dai graça, porque esta é a vosso respeito a vontade de Deus em Jesus Cristo.'
 )
