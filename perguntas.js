@@ -1,17 +1,17 @@
 criaCartao(
-    'Programação',
+    'Para dias de insegurança',
     'Colossenses 3:23',
     'Tudo o que fizerdes, fazei-o de bom coração, com para o Senhor e não para os homens.'
 )
 
 criaCartao(
-    'Geografia',
+    ' Quesito Geografico',
     'Qual a cidade em que Jesus nasceu?',
     'Jesus nasceu em Belém, uma cidade atualmente localizada no território palestino da Cisjordânia, cerca de 10 quilômetros ao sul de Jerusalém.'
 )
 
 criaCartao(
-    'Programação',
+    'Para dias de peocupações',
     'Provérbios 16:3',
     'Confia teus negócios ao Senhor e teus planos terão bom exito.'
 )
