@@ -12,8 +12,8 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Provérbios 16:3',
+    'Confia teus negócios ao Senhor e teus planos terão bom exito.'
 )
 
 criaCartao(
